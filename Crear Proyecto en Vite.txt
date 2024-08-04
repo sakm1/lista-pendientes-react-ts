@@ -1,0 +1,2 @@
+PS C:\Users\User\Desktop> npm create vite@latest
+? Project name: » vite-project
